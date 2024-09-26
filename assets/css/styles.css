@@ -96,6 +96,10 @@ header .btn-menu-mobile i {
     display: none;
 }
 
+#btn-menu {
+    display: none;
+}
+
 
 /* ESTILO DO MENU MOBILE */
 nav.menu-mobile {
@@ -483,6 +487,10 @@ footer .line-footer p a {
     }
 
     /* CABEÇALHO */
+
+    #btn-menu {
+        display: block;
+    }
     .menu-desktop,
     .btn-contato {  
         display: none;
